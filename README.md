@@ -121,5 +121,5 @@ This project demonstrates how Logistic Regression can be effectively used for he
 ---
 
 ## 📌 Author
-Sriram Ravichandran 
+Sriram Ravichandran  /n
 Aspiring Data Scientist | Machine Learning Enthusiast
