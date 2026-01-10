@@ -120,5 +120,5 @@ This project demonstrates how Logistic Regression can be effectively used for he
 
 ---
 
-## 📌 Author
+
 
