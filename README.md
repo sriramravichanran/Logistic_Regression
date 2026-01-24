@@ -16,7 +16,7 @@ To build a machine learning model that can predict the presence of heart disease
 ## 🧠 Why Logistic Regression?
 - The target variable is binary:
   - 1 → Heart Disease
-  - 0 → No Heart Disease
+  - 0 → No Heart Disease 
 - Logistic Regression is well-suited for binary classification
 - It provides probability-based and interpretable results
 - Widely used in real-world healthcare risk prediction systems
