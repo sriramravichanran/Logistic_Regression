@@ -11,7 +11,7 @@ The project demonstrates an end-to-end machine learning workflow, including data
 ## 🎯 Problem Statement
 To build a machine learning model that can predict the presence of heart disease using patient health data and evaluate its performance using multiple classification metrics.
  
----
+--- 
 
 ## 🧠 Why Logistic Regression?
 - The target variable is binary:
