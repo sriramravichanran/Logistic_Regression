@@ -21,7 +21,7 @@ To build a machine learning model that can predict the presence of heart disease
 - It provides probability-based and interpretable results
 - Widely used in real-world healthcare risk prediction systems
 
----
+--- 
 
 ## 🗂 Dataset Description
 The dataset contains health-related attributes such as:
